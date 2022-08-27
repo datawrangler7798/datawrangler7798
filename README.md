@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datawrangler7798
 - 👀 I’m interested in data science & machine learning...
-- 🌱 I’m currently learning further technologies in daata science & ml/dl
+- 🌱 I’m currently learning further technologies in data science & ml/dl
 - 💞️ I’m looking for data scinece and machine learning opporunities.
 - 📫 How to reach me ---- mail me @ rkvashist00@gmail.com , Call me @ 9992458867
 
