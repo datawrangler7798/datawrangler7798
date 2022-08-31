@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datawrangler7798
+- 👋 Hi, I’m @Rupesh Gaur
 - 👀 I’m interested in data science & machine learning...
 - 🌱 I’m currently learning further technologies in data science & ml/dl
 - 💞️ I’m looking for data scinece and machine learning opporunities.
