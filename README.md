@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rupesh Gaur
+- 👋 Hi, I’m @Rupesh Gaur , Data Scientist IV @ Google (Onsite)
 - 👀 I’m interested in data science & machine learning...
-- 🌱 I’m currently learning further technologies in data science & ml/dl
-- 💞️ I’m looking for data scinece and machine learning opporunities.
+- 🌱 I’m currently learning further technologies in data science & ml/dl/ai
+- 💞️ I’m looking for data scinece and machine learning opporunities and new busienss problems.
 - 📫 How to reach me ---- mail me @ rkvashist00@gmail.com , Call me @ 9992458867
 
 <!---
